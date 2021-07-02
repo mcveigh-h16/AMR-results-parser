@@ -1,0 +1,16 @@
+	accession	gene	allele	protein-name	Target length	RefSeq length	%Cov	%Iden	Align Length
+0	MW116081	sul1		sulfonamide-resistant dihydropteroate synthase Sul1	145	275	52.73	100.0	145
+1	MW207171	aac(6')-Ib-cr		fluoroquinolone-acetylating aminoglycoside 6'-N-acetyltransferase AAC(6')-Ib-cr	160	184	86.96	100.0	160
+2	MZ254707	blaCMY	blaCMY-6	class C beta-lactamase CMY-6	381	381	100.0	100.0	381
+3	MZ254708	qnrS		QnrS family quinolone resistance pentapeptide repeat protein	139	218	63.76	100.0	139
+4	MZ254709	tet(B)		tetracycline efflux MFS transporter Tet(B)	219	401	54.61	100.0	219
+5	MZ254710	blaSHV		SHV family class A beta-lactamase	265	286	92.66	100.0	265
+6	MZ254711	blaCTX-M		CTX-M family class A extended-spectrum beta-lactamase	180	291	61.86	100.0	180
+7	MZ254712	blaNDM		NDM family subclass B1 metallo-beta-lactamase	158	270	58.52	100.0	158
+8	MZ254713	blaTEM		TEM family class A beta-lactamase	274	286	94.41	100.0	270
+9	MZ275235	aac(6')-Ib-cr		fluoroquinolone-acetylating aminoglycoside 6'-N-acetyltransferase AAC(6')-Ib-cr	159	184	86.41	100.0	159
+10	MZ275236	qnrB		QnrB family quinolone resistance pentapeptide repeat protein	158	214	73.83	100.0	158
+11	MZ275237	blaCTX-M		CTX-M family class A extended-spectrum beta-lactamase	180	291	61.86	100.0	180
+12	MZ275238	blaCTX-M		CTX-M family class A extended-spectrum beta-lactamase	180	291	61.86	100.0	180
+13	MZ275239	sul1		sulfonamide-resistant dihydropteroate synthase Sul1	145	275	52.73	100.0	145
+14	MZ275240	blaNDM		NDM family subclass B1 metallo-beta-lactamase	158	270	58.52	100.0	158

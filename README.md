@@ -1,6 +1,6 @@
 # AMR-results-parser
 
-upyter notebook to import the output of AMRFinder https://github.com/ncbi/amr/wiki/Running-AMRFinder and parse it into a format that is usable by genome workbench. Gene and allele names are verified by a curated list.
+jupyter notebook to import the output of AMRFinder https://github.com/ncbi/amr/wiki/Running-AMRFinder and parse it into a format that is usable by genome workbench. Gene and allele names are verified by a curated list.
 
 Jupyter notebook installation requires the installation of https://docs.anaconda.com/anaconda/navigator/ on your PC. Once you launch Anaconda Navigator your select "jupyter notebook" to launch the application. The code is attached in AMRparser.ipynb, download this and save it in the directory on your PC where you want to work. 
 
